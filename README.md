@@ -11,6 +11,7 @@ Operator for CNCF Distribution Registry 📦
 Join the community to discuss ongoing operator development and usage in [#registry-operator](https://cloud-native.slack.com/archives/C06P7RC8857) channel on the CNCF Slack and see the [self generated docs](https://pkg.go.dev/github.com/registry-operator/registry-operator) for more usage details.
 
 [![Slack Channel](https://img.shields.io/badge/Slack-CNCF-4A154B?logo=slack)](https://cloud-native.slack.com/archives/C06P7RC8857)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fregistry-operator%2Fregistry-operator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fregistry-operator%2Fregistry-operator?ref=badge_shield)
 
 The following quality gates are ensuring the quality and maintainability of the codebase.
 
@@ -26,6 +27,9 @@ The following quality gates are ensuring the quality and maintainability of the 
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [License](#license)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fregistry-operator%2Fregistry-operator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fregistry-operator%2Fregistry-operator?ref=badge_large)
 
 ## Overview
 
